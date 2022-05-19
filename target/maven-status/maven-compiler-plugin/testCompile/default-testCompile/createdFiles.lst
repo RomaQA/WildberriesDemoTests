@@ -1,0 +1,5 @@
+ru\wildberries\pages\AbstractMainPage.class
+ru\wildberries\pages\WelcomePage.class
+ru\wildberries\steps\Hooks.class
+ru\wildberries\Runner.class
+ru\wildberries\pages\GooglePage.class
