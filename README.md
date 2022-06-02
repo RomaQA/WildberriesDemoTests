@@ -10,4 +10,5 @@ PageFactory2 - фреймворк который расширяет возмож
 
 Примечание: Перед запуском тестов укажите в файле application.properties актуальную версию web браузера и путь до драйвера:
 #webdriver.version = 
+
 webdriver.drivers.path = 
