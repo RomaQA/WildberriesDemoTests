@@ -7,6 +7,6 @@ import ru.sbtqa.tag.pagefactory.WebPage;
 
 import java.time.Duration;
 
-public class AbstractMainPage extends WebPage {
+public class AbstractMainPage extends HTMLPage {
 
 }
