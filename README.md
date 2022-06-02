@@ -1,7 +1,9 @@
 # WildberriesDemoTests
 
 Это пример базовой реализации автотестов на примере магазина wildberries.
+
 Используемые фреймворки:
+
 Cucumber - фреймворк для BDD тестирования. Документация https://docs.cucumber.io/docs/cucumber/
 
 Selenium - фреймворк для автоматизации UI приложений. Документация https://www.selenium.dev/documentation/overview/
