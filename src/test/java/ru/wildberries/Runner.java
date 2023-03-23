@@ -7,10 +7,9 @@ import ru.sbtqa.tag.pagefactory.Tag;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(monochrome = true, plugin = {"pretty"},
-        glue = {"ru.sbtqa.tag.stepdefs",
-                "ru.your.project.stepdefs", "ru/wildberries/steps"},
-        features = {"src/test/resources/features/"},
-        tags = {"@test"}
+        glue = {"ru.sbtqa.tag.stepdefs"},
+        features = {"src/test/resources/features/"}
+
 )
 
-public class Runner extends Tag{}
+public class Runner extends Tag {}
